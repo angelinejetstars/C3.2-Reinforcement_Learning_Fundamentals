@@ -6,7 +6,7 @@ Welcome! This repository contains two Jupyter notebooks to help you understand *
 
 | Notebook | What you'll learn |
 |---|---|
-| **Original Q-Learning notebook** | Train a robot to move through a 4×4 grid and reach a goal. Learn states, actions, rewards, exploration vs. exploitation, and the Q-table. |
+| [`Reinforcement_Learning_Visualised.ipynb`](Reinforcement_Learning_Visualised.ipynb) | Train a robot to move through a 4×4 grid and reach a goal. Learn states, actions, rewards, exploration vs. exploitation, and the Q-table. |
 | [`Treasure_Hunter_Arena_Q_Learning.ipynb`](Treasure_Hunter_Arena_Q_Learning.ipynb) | Apply the same Q-learning logic to a 5×5 treasure hunt with walls, traps, and collectible gems. Experiment with rewards and watch the robot's behaviour. |
 
 ## 🚀 Getting started
